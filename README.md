@@ -85,19 +85,19 @@ Sending Email: Hello via Email!
 Sending SMS: Hello via SMS!
 Sending Push Notification: Hello via Push Notification!
 ```
-##📦 Dependências
+## 📦 Dependências
 
 TypeScript: Linguagem utilizada para implementar o projeto.
 
 Node.js: Ambiente de execução para o código compilado.
 
-##📝 Observações
+## 📝 Observações
 
 A estrutura está pronta para ser estendida. 
 
 Para adicionar um novo canal de notificação, basta criar uma nova classe que implemente NotificationStrategy e configurar no NotificationManager.
 
-##🖋️ Autor
+## 🖋️ Autor
 Desenvolvido por André Albuquerque como parte de uma atividade prática para aprendizado de padrões de projeto e TypeScript.
 
 ## 📜 Licença
